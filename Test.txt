@@ -1,13 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<Sequential>
-	<Parallel>
-		<Sequential>
-			<Hello/>
-			<Goodbye/>
-		</Sequential>
-		<Sequential>
-			<No/>	
-		</Sequential>
-	</Parallel>
-	<Yes/>
-</Sequential>
+<?xml version="1.0" encoding="UTF-8"?><Sequential><Sequential><Sequential><Hi/></Sequential></Sequential><Drive/><Sequential><Hello/></Sequential></Sequential>
