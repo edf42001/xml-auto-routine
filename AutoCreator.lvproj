@@ -16,7 +16,6 @@
 		<Item Name="ExecuteCommand.vi" Type="VI" URL="../ExecuteCommand.vi"/>
 		<Item Name="ExecuteXML.vi" Type="VI" URL="../ExecuteXML.vi"/>
 		<Item Name="GenerateXML.vi" Type="VI" URL="../GenerateXML.vi"/>
-		<Item Name="Global.vi" Type="VI" URL="../Global.vi"/>
 		<Item Name="ParseXML.vi" Type="VI" URL="../ParseXML.vi"/>
 		<Item Name="RoutineData.vi" Type="VI" URL="../RoutineData.vi"/>
 		<Item Name="Test.txt" Type="Document" URL="../Test.txt"/>
