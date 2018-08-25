@@ -23,7 +23,6 @@
 		<Item Name="PromptForAttributes.vi" Type="VI" URL="../PromptForAttributes.vi"/>
 		<Item Name="PromptForInputTemplate.vi" Type="VI" URL="../PromptForInputTemplate.vi"/>
 		<Item Name="RoutineData.vi" Type="VI" URL="../RoutineData.vi"/>
-		<Item Name="Test.txt" Type="Document" URL="../Test.txt"/>
 		<Item Name="thing.vi" Type="VI" URL="../thing.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
@@ -42,6 +41,7 @@
 				<Item Name="NI_FileType.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/lvfile.llb/NI_FileType.lvlib"/>
 				<Item Name="NI_XML.lvlib" Type="Library" URL="/&lt;vilib&gt;/xml/NI_XML.lvlib"/>
 				<Item Name="Search and Replace Pattern.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Search and Replace Pattern.vi"/>
+				<Item Name="System Exec.vi" Type="VI" URL="/&lt;vilib&gt;/Platform/system.llb/System Exec.vi"/>
 			</Item>
 			<Item Name="DOMUserDefRef.dll" Type="Document" URL="DOMUserDefRef.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
