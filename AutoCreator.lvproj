@@ -20,11 +20,11 @@
 		<Item Name="ExecuteXML.vi" Type="VI" URL="../ExecuteXML.vi"/>
 		<Item Name="GenerateXML.vi" Type="VI" URL="../GenerateXML.vi"/>
 		<Item Name="ParseXML.vi" Type="VI" URL="../ParseXML.vi"/>
+		<Item Name="PromptForAttributes.vi" Type="VI" URL="../PromptForAttributes.vi"/>
 		<Item Name="PromptForInputTemplate.vi" Type="VI" URL="../PromptForInputTemplate.vi"/>
 		<Item Name="RoutineData.vi" Type="VI" URL="../RoutineData.vi"/>
 		<Item Name="Test.txt" Type="Document" URL="../Test.txt"/>
 		<Item Name="thing.vi" Type="VI" URL="../thing.vi"/>
-		<Item Name="VIScriptingTest.vi" Type="VI" URL="../VIScriptingTest.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Acquire Input Data.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/inputDevices.llb/Acquire Input Data.vi"/>
