@@ -10,7 +10,7 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
-		<Item Name="Commands" Type="Folder" URL="../Commands">
+		<Item Name="Auto" Type="Folder" URL="../Auto">
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
 		<Item Name="CreateCommands" Type="Folder" URL="../CreateCommands">
@@ -19,10 +19,8 @@
 		<Item Name="Utils" Type="Folder" URL="../Utils">
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
-		<Item Name="ExecuteXML.vi" Type="VI" URL="../ExecuteXML.vi"/>
 		<Item Name="GenerateCode.vi" Type="VI" URL="../GenerateCode.vi"/>
 		<Item Name="GenerateXML.vi" Type="VI" URL="../GenerateXML.vi"/>
-		<Item Name="ParseXML.vi" Type="VI" URL="../ParseXML.vi"/>
 		<Item Name="PromptForAttributes.vi" Type="VI" URL="../PromptForAttributes.vi"/>
 		<Item Name="PromptForInputTemplate.vi" Type="VI" URL="../PromptForInputTemplate.vi"/>
 		<Item Name="RoutineData.vi" Type="VI" URL="../RoutineData.vi"/>
