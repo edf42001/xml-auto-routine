@@ -19,7 +19,6 @@
 		<Item Name="Utils" Type="Folder" URL="../Utils">
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
-		<Item Name="GenerateCode.vi" Type="VI" URL="../GenerateCode.vi"/>
 		<Item Name="GenerateXML.vi" Type="VI" URL="../GenerateXML.vi"/>
 		<Item Name="PromptForAttributes.vi" Type="VI" URL="../PromptForAttributes.vi"/>
 		<Item Name="PromptForInputTemplate.vi" Type="VI" URL="../PromptForInputTemplate.vi"/>
